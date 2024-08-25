@@ -9,14 +9,14 @@
   <caption>TS challenge schedule</caption>
     <thead>
     <tr>
-      <th>week</th>
-      <th>days</th>
-      <th>assignment</th>
+      <th scope="col">week</th>
+      <th scope="col">days</th>
+      <th scope="col">assignment</th>
     </tr>
     </thead>
     <tbody>
       <tr>
-        <td>First Weeks</td>
+        <td colgroup="6">First Weeks</td>
         <td>Mon</td>
         <td>Lecture #1.5 ~ #2.1, Quiz</td>
       </tr>
@@ -41,7 +41,7 @@
         <td>Take a break!</td>
       </tr>
        <tr>
-        <td>Second Weeks</td>
+        <td colgroup="5">Second Weeks</td>
         <td>Mon</td>
         <td>Lecture #4.2 ~ #4.4, Quiz</td>
       </tr>
