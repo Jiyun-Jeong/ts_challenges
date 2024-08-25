@@ -57,9 +57,5 @@
         <td>Fri, Sat, Sun</td>
         <td>Review, Final project (3days)</td>
       </tr>
-      <tr>
-        <td>Sun</td>
-        <td>Take a break!</td>
-      </tr>
     </tbody>
 </table>
