@@ -16,7 +16,7 @@
     </thead>
     <tbody>
       <tr>
-        <td colgroup="6">First Weeks</td>
+        <td colspan="6">First Weeks</td>
         <td>Mon</td>
         <td>Lecture #1.5 ~ #2.1, Quiz</td>
       </tr>
@@ -41,7 +41,7 @@
         <td>Take a break!</td>
       </tr>
        <tr>
-        <td colgroup="5">Second Weeks</td>
+        <td colspan="5">Second Weeks</td>
         <td>Mon</td>
         <td>Lecture #4.2 ~ #4.4, Quiz</td>
       </tr>
