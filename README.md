@@ -43,7 +43,8 @@
       </tr>
       <tr>
         <td>Sun</td>
-        <td colspan="2">Take a break!</td>
+        <td>Take a break!</td>
+        <td> - </td>
       </tr>
        <tr>
         <td rowspan="5">Second Weeks</td>
