@@ -28,13 +28,13 @@
       </tr>
       <tr>
         <td>Wed</td>
-        <td>Lecture #3.0 ~ #3.4, Quiz</td>
-        <td> - </td>
+        <td>Lecture #3.0 ~ #3.1, Quiz</td>
+        <td>✅ 2024.08.28</td>
       </tr>
       <tr>
         <td>Thu</td>
         <td>Lecture #3.2 ~ #3.4, Code Challenge</td>
-        <td> - </td>
+        <td>✅ 2024.08.29</td>
       </tr>
       <tr>
         <td>Fri, Sat</td>
